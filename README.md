@@ -1,6 +1,6 @@
 # simple_weather
 
-A new Flutter project.
+<img width="277" alt="image" src="https://github.com/saputramb/simple-weather/assets/53567782/275ca657-b9e6-4d20-9da4-d1f3aae25196">
 
 ## Getting Started
 
